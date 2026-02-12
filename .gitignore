@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ambiente Virtual
+vehicles_env/
+
+# Arquivos temporários do Python e Notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Arquivos de sistema (opcional)
+.DS_Store
+Thumbs.db
